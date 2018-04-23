@@ -1,0 +1,8 @@
+﻿  Sch.cpp
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\connor\documents\school\431\program 1 - scheduling and data\sch\sch\sch.cpp(256): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sch.vcxproj -> C:\Users\Connor\Documents\School\431\Program 1 - scheduling and data\Sch\Debug\Sch.exe
